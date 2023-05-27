@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.tab-item {
+  background-color: transparent;
+  border: none;
+  color: #7b8794;
+  font-size: 16px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+}
+.add-active-styles {
+  border-bottom: 2px solid #2563eb;
+  color: #2563eb;
+}
